@@ -15,3 +15,8 @@ the predictions made by automatic machine translation systems.
 to  compute the value compared to the candidate sentence. I also included my own implementation of the distance calculator between the 
 sentences to further analyze the comparison .
 
+How to Run it
+1.Download the zip file
+2.Edit The text file to configure the candidate sentence you want to test with reference sentences
+3.Run it
+
