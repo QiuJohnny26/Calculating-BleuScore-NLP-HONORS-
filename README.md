@@ -16,7 +16,7 @@ to  compute the value compared to the candidate sentence. I also included my own
 sentences to further analyze the comparison .
 
 How to Run it
-1.Download the zip file
-2.Edit The text file to configure the candidate sentence you want to test with reference sentences
-3.Run it
+1.Download the zip file <br />
+2.Edit The text file to configure the candidate sentence you want to test with reference sentences<br />
+3.Run it<br />
 
